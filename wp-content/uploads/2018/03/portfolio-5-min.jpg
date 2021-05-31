@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=/404-page-not-found/">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "/404-page-not-found/";
+		</script>
+
+		<p>You are being redirected to <a href="/404-page-not-found/">/404-page-not-found/</a></p>
+	</body>
+</html>
